@@ -1,6 +1,10 @@
-# bes_automated_testing
+# Too Lazy To Do It Manually
 
-I wrote this simple Python script to help with testing Chat Bot applications. This is especially useful if you want to test the Chat Bot against a LOT of keywords. This is still bare and simplified, but it already helped me save a lot of effort and time. As always, it can be improved anyway.
+I wrote these simple Python scripts to automate the tasks I used to do manually.
+
+For example, `chat-bot-tester.py` helped me test chat bot applications. Since I need to test the chat bots against a LOT of keywords, this has been very useful and helped me uncover bugs.
+
+The scripts are relatively bare and simplified, but they already saved me a lot of effort and time. Also, these scripts cover the basics of web automated testing and can already serve as a groundwork for bigger projects.
 
 The testing setup uses Selenium and Python. 
 
@@ -17,4 +21,4 @@ Unzip the file and place `chromedriver.exe` to a location specified in your `PAT
 
 ## Write your Python test script.
 
-For example, see chat-bot-tester.py.
+See the sample test scripts.
